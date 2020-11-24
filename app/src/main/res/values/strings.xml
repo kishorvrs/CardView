@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CardView</string>
+    <string name="new_york_city">New York City</string>
+    <string name="london">London</string>
+</resources>
